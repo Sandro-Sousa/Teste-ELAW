@@ -1,4 +1,4 @@
-# Projeto Consulta Pessoa Jurídica
+# Projeto WebCrawler
 ## Desenvolvendo um webcrawler, Utilizando Príincios SOLID/Clean Code, Repository Pattern.
 
 ## Tecnologias Usadas
